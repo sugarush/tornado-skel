@@ -1,3 +1,5 @@
+coverage==4.5.1
+PyJWT==1.6.1
 tornado==5.0.2
 -e git+https://github.com/sugarush/tornado-json.git@af3cfaa0c420c645c0a184949cf9e9014a34d875#egg=tornado_json
 -e git+https://github.com/sugarush/tornado-jwt.git@1f06730063f5354cb74cfb0df4c03deaec61a35c#egg=tornado_jwt
