@@ -2,7 +2,6 @@ from tornado_jwt import MemoryAuthenticator, MemoryDB
 
 from config import settings
 
-# from handlers.skel import *
 from handlers.echo import EchoHandler
 
 VERSION = settings['version']
